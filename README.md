@@ -1,5 +1,10 @@
 # Loggbok-Python-programmering
 
+2025-05-05 
+
+Idag har jag jobbat på Fågelprojektet, Jag har mestadels ägnat mig åt att göra så att fågeln inte kan åka in i boxen, utan att när man gör det så ska det inte funka.
+
+
 2025-04-22
 Idag har jag försökt att connecta github med vscode och till en början så gick det inget vidare. Det stod att jag inte hade permission att connecta. Men sedan efter lite mer 
 felsökning och hjälp av lärare. Så var det en lärare som kom på att vscode var kopplat till ett annat github konto. Så då behövde jag logga ut från det github kontot i vscode och loggade in på det nya. Det löste problemet med att jag inte kunde göra commits som syntes på github.
