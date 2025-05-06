@@ -1,5 +1,9 @@
 # Loggbok-Python-programmering
 
+2025-05-06
+
+Idag har jag gjort klart fågelprojektet, och börjat på ett nytt projekt där man ska gissa numret.
+
 2025-05-05 
 
 Idag har jag jobbat på Fågelprojektet, Jag har mestadels ägnat mig åt att göra så att fågeln inte kan åka in i boxen, utan att när man gör det så ska det inte funka.
